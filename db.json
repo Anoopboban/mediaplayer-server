@@ -1,0 +1,43 @@
+{
+  "videos": [
+    {
+      "caption": "Bombay Dreams ",
+      "Imgurl": "https://i.scdn.co/image/ab67616d0000b273b00f5a7a8399e3dde5d8f0b7",
+      "embededLink": "https://www.youtube.com/embed/EW4pNzAbVao",
+      "id": 1
+    },
+    {
+      "caption": "eyy banane",
+      "Imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/4f/0d/254f0d98-7ed5-642d-56f1-191c2ef27e49/cover.jpg/600x600bf-60.jpg",
+      "embededLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+      "id": 2
+    }
+  ],
+  "history": [],
+  "category": [
+    {
+      "category": "malayalam songs",
+      "allVideos": [
+        {
+          "caption": "eyy banane",
+          "Imgurl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/4f/0d/254f0d98-7ed5-642d-56f1-191c2ef27e49/cover.jpg/600x600bf-60.jpg",
+          "embededLink": "https://www.youtube.com/embed/e1BHIY9p2WU",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "category": "hindi songs",
+      "allVideos": [
+        {
+          "caption": "Bombay Dreams ",
+          "Imgurl": "https://i.scdn.co/image/ab67616d0000b273b00f5a7a8399e3dde5d8f0b7",
+          "embededLink": "https://www.youtube.com/embed/EW4pNzAbVao",
+          "id": 1
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
